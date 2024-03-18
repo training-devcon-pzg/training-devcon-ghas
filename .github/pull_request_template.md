@@ -1,4 +1,4 @@
-*DevCon 2024 Workshop Issue #, if available:*
+*DevCon 2024 Workshop Issue #, if available: 2024*
 
 *Description of changes:*
 
